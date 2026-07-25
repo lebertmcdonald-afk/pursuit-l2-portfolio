@@ -18,4 +18,4 @@ An agent that reads Gmail, Calendar, and Slack each morning and returns one clea
 
 ## About me
 
-[A sentence or two about who you are and what you're looking for. I can help you write this if you want.]
+I'm aiming for a role as an AI Consultant, helping businesses solve real problems through AI-powered solutions and automation. I'm a builder at heart, someone who combines product thinking with hands-on implementation to turn complex business challenges into practical solutions that create measurable value. I'm motivated by learning quickly, collaborating with teams, and building things that actually matter.
